@@ -12,6 +12,8 @@ Wood Shift is an online furniture shopping platform that caters to the furniture
 #### Core Azure Services Used
   - [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview)
   - [QnA Maker](https://www.qnamaker.ai/)
-  - AI + Machine Learning (QnA Maker + Web App Bot)
+  - [AI + Machine Learning (QnA Maker + Web App Bot)](https://azure.microsoft.com/en-us/services/bot-services/#get-started)
 
 The static web app can be viewed [here.](https://salmon-sea-0f7084d00.1.azurestaticapps.net)
+
+
