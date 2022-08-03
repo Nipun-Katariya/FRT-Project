@@ -1022,6 +1022,57 @@ ul.link_menu li a:hover {
      border-bottom: #DE7E5D solid 2px;
 }
 
+ /** about page **/
+ .about2 {
+     background-color: white;
+     padding-top: 50px;
+}
+
+.about2 .titlepage {
+     text-align: left;
+     margin-top: 15%;
+     padding-bottom: 0;
+     margin-right: -20px;
+}
+
+.about2 .titlepage h2 {
+     margin-bottom: 35px;
+}
+
+.about2 .titlepage p {
+     font-weight: 300;
+     color: black;
+     font-size: 17px;
+     line-height: 31px;
+     padding-bottom: 35px;
+}
+
+.about2_img {
+     padding: 40px 30px 45px 30px;
+}
+
+.about2_img::before {
+     position: absolute;
+     content: "";
+     background: url(../images/vg.png);
+     top: 0;
+     height: 100%;
+     width: 452px;
+     right: 0;
+     border-radius: 5px;
+}
+
+.about2_img figure {
+     margin: 0;
+}
+
+.about2_img figure img {
+     width: 100%;
+     z-index: 0;
+     position: relative;
+}
+/** end about page **/
+
 /** Azure QnA Service **/
 /** message icon **/
 #click{
