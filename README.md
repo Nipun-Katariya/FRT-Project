@@ -16,7 +16,7 @@ Wood Shift is an online furniture shopping platform that caters to the furniture
 
 The static web app can be viewed [here.](https://salmon-sea-0f7084d00.1.azurestaticapps.net)
 
-### Images of the Web App
+#### Images of the Web App
 
 ![home1](https://user-images.githubusercontent.com/76895418/183258131-b7c64a6a-2b4a-466c-b977-9438b1d42073.jpg)
 ![home2](https://user-images.githubusercontent.com/76895418/183258271-f3c5e906-79e1-43f9-8805-c9f3e7ae5968.jpg)
@@ -25,7 +25,7 @@ The static web app can be viewed [here.](https://salmon-sea-0f7084d00.1.azuresta
 ![home5](https://user-images.githubusercontent.com/76895418/183258290-f17410a0-01ee-4e7e-9c12-ea204378961b.jpg)
 ![home6](https://user-images.githubusercontent.com/76895418/183258292-5382ca7d-db75-409c-95bb-b835de778446.jpg)
 
-### Images of the Chatbot
+#### Images of the Chatbot
 
 ![chatbot1](https://user-images.githubusercontent.com/76895418/183258477-32a93cc8-2731-475e-9ef2-56a419f9372e.jpg)
 ![chatbot2](https://user-images.githubusercontent.com/76895418/183258482-1a551705-e180-4b72-b742-428ee4696abf.jpg)
