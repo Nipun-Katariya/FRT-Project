@@ -16,6 +16,10 @@ Wood Shift is an online furniture shopping platform that caters to the furniture
 
 The static web app can be viewed [here.](https://salmon-sea-0f7084d00.1.azurestaticapps.net)
 
+#### Update!
+As of September 6, 2022, this web app is temporarily unavailable via Azure. Will be back up soon! You can still view it via the GitHub Pages [link](https://nipun-katariya.github.io/FRT-Project/).
+
+
 #### Images of the Web App
 
 ![home1](https://user-images.githubusercontent.com/76895418/183258131-b7c64a6a-2b4a-466c-b977-9438b1d42073.jpg)
