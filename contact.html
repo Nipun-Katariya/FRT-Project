@@ -82,22 +82,22 @@
             </div>
             <div class="row">
                <div class="col-md-6">
-                  <form id="request" class="main_form">
+                  <form id="request" class="main_form" action="https://prod-21.centralus.logic.azure.com:443/workflows/8ae3e8b1925247089a5656ade8d6b00d/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=y6fiKBQ6ucj1xWyG8Ke5kFtONaq4UIJOEiu1UZkh-Hc" method="post">
                      <div class="row">
                         <div class="col-md-12 ">
-                           <input class="contactus" placeholder="Name" type="text" name="Name"> 
+                           <input class="contactus" placeholder="Name" type="text" name="name"> 
                         </div>
                         <div class="col-md-12">
-                           <input class="contactus" placeholder="Email" type="email" name="Email"> 
+                           <input class="contactus" placeholder="Email" type="email" name="email"> 
                         </div>
                         <div class="col-md-12">
-                           <input class="contactus" placeholder="Phone Number" type="text" maxlength="10" pattern="[789][0-9]{9}" name="Phone Number">                          
+                           <input class="contactus" placeholder="Phone Number" type="text" maxlength="10" pattern="[789][0-9]{9}" name="phone">                          
                         </div>
                         <div class="col-md-12">
-                           <textarea class="textarea" placeholder="Message" type="text" Message="Name"></textarea>
+                           <textarea class="textarea" placeholder="Message" type="text" Message="Name" name="message"></textarea>
                         </div>
                         <div class="col-md-12">
-                           <button class="send_btn">Send</button>
+                           <button class="send_btn" type="submit" onclick="alert('Thanks for contacting us! We will get back to you soon!')">Send</button>
                         </div>
                      </div>
                   </form>
