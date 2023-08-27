@@ -21,18 +21,12 @@ As of September 6, 2022, this web app is temporarily unavailable via Azure. Will
 
 
 #### Images of the Web App
+##### Homepage
+![Web capture_19-11-2022_0558_nipun-katariya github io](https://github.com/Nipun-Katariya/FRT-Project/assets/76895418/0a49ac29-02fe-40ef-ac33-85dad0405d90)
 
-![home1](https://user-images.githubusercontent.com/76895418/183258131-b7c64a6a-2b4a-466c-b977-9438b1d42073.jpg)
-![home2](https://user-images.githubusercontent.com/76895418/183258271-f3c5e906-79e1-43f9-8805-c9f3e7ae5968.jpg)
-![home3](https://user-images.githubusercontent.com/76895418/183258279-1a666db2-ec6e-4e5a-95db-d5d07b7d83ee.jpg)
-![home4](https://user-images.githubusercontent.com/76895418/183258285-1a03c377-c90d-484e-981f-efd471025848.jpg)
-![home5](https://user-images.githubusercontent.com/76895418/183258290-f17410a0-01ee-4e7e-9c12-ea204378961b.jpg)
-![home6](https://user-images.githubusercontent.com/76895418/183258292-5382ca7d-db75-409c-95bb-b835de778446.jpg)
+##### About Page
+![Web capture_19-11-2022_05543_nipun-katariya github io](https://github.com/Nipun-Katariya/FRT-Project/assets/76895418/834e5f8d-3c07-420b-bc47-04261bdae90d)
 
-#### Images of the Chatbot
-
-![chatbot1](https://user-images.githubusercontent.com/76895418/183258477-32a93cc8-2731-475e-9ef2-56a419f9372e.jpg)
-![chatbot2](https://user-images.githubusercontent.com/76895418/183258482-1a551705-e180-4b72-b742-428ee4696abf.jpg)
 
 
 
